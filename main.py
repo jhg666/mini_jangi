@@ -23,8 +23,3 @@ while True:
             break
     print("다시 입력해 주세요.")
 
-if a[row][column] == 1:
-    
-if a[row][column] == 2:
-
-if a[row][column] == 3:
