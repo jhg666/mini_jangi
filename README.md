@@ -1,1 +1,1 @@
-# mini_jangi
+# pythone_jangi
